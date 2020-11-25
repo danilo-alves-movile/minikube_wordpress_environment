@@ -31,4 +31,5 @@
         * `terraform apply`
 
 ### Access
-* Local access local browser (port-forward): `minikube service nginx-service`
+* http://`minikube ip`/
+<!-- * Local access local browser (port-forward): `minikube service nginx-service` -->
