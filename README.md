@@ -1,5 +1,6 @@
 ## Summary
 * Deployment
+
 [X] Wordpress image build.
 
 [X] Kubernetes cluster (version from 1.17 onwards)
