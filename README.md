@@ -1,14 +1,19 @@
 ## Summary
 * Deployment
 [X] Wordpress image build.
+
 [X] Kubernetes cluster (version from 1.17 onwards)
+
 [X] MySQL 5.7
+
 [X] Deploy custom WordPress image on port 8080
+
 [] Install plugin on Wordpress
+
 [X] Install Prometheus and Grafana in the cluster (without version restrictions), configuring the interface on port 3000;
+
 [] two performance widgets in Grafana one for the database and one for Apache
 
-* Documentation
 [] Diagrams and other documentation 
 
 ## Documentation
